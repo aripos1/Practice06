@@ -22,5 +22,5 @@ public class SmartPhone extends MusicPhone {
 		
 	}
 
-    
+ //ㅁㄴㅇ   
 }
